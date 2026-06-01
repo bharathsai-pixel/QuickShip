@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class QuickShip  {
 
     static class Node {
         int key, height;
